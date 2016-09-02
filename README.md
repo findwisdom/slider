@@ -6,7 +6,7 @@ Welcome to my project
 
 
 
-
+----------
 
 ###**事前准备:**
 
@@ -15,7 +15,7 @@ Welcome to my project
  - **引入插件js.js**
 
 
-
+----------
 
 ###**使用方法**
 
@@ -26,7 +26,7 @@ Welcome to my project
 ```
 
 
-
+----------
 ###**API**
 
 
