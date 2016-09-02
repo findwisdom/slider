@@ -8,7 +8,7 @@ Welcome to my project
 
 
 
-##**事前准备:**
+###**事前准备:**
 
  - **在使用这款插件前你需要引入JQuery**
  - **引入插件样式css.css**
@@ -17,7 +17,7 @@ Welcome to my project
 
 
 
-##**使用方法**
+###**使用方法**
 
 
 ```
@@ -27,7 +27,7 @@ Welcome to my project
 
 
 
-##**API**
+###**API**
 
 
 |参数                  |默认数值                       | 作用             |
